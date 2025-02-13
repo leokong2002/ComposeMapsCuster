@@ -1,7 +1,7 @@
 # ComposeMapsCuster
 First of all, you will need to replace the map api in Manifest file before running it
 
-This is an example app that displays the maps of the UK with data of all 8 Scottish Citis
+This is an example app that displays the maps of the UK with data of all 8 Scottish Citis, the recenter button is not implemented yet
 
 --- 
 <img width="534" alt="Screenshot 2025-02-13 at 23 11 00" src="https://github.com/user-attachments/assets/569c77da-34fc-4381-a627-e1a54df5ad4e" />
