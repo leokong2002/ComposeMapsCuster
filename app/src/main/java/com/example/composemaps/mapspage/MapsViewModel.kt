@@ -29,7 +29,7 @@ class MapsViewModel : ViewModel() {
             Place(name = "Aberdeen", location = LatLng(57.147480, -2.095400)),
             Place(name = "Inverness", location = LatLng(57.476688, -4.231450)),
             Place(name = "Stirling", location = LatLng(56.11753845214844, -3.936826705932617)),
-            Place(name = "Dunfermline", location = LatLng(56.122962951660156, -3.5857582092285156)),
+            Place(name = "Dunfermline", location = LatLng(56.071381, -3.461620)),
             Place(name = "Glasgow", location = LatLng(55.861155, -4.2501687)),
             Place(name = "Dundee", location = LatLng(56.4605938, -2.97019)),
         )
